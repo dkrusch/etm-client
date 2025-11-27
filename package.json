@@ -15,7 +15,7 @@
     "react-payment": "^0.1.8",
     "react-router-dom": "^5.1.2",
     "react-router-link": "^2.0.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "stripe": "^7.11.0",
     "styled-components": "^4.4.1"
   },
